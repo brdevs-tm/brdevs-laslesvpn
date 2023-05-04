@@ -52,7 +52,8 @@
   }
   .item:hover {
     transform: translateY(8px);
-    box-shadow: 20px 100px 60px 30px rgba(245, 56, 56, 0.35);
+    
+    box-shadow: 0px 1px 20px 10px rgba(245, 56, 56, 0.35);
     border: 2px solid #f53838;
     -webkit-transform: translateY(8px);
     -moz-transform: translateY(8px);
